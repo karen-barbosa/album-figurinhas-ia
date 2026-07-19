@@ -1,5 +1,3 @@
-# album-figurinhas-ia
-
 # Copa do Mundo Tech - Álbum de Figurinhas Alura
 
 Este é um projeto interativo de um **Álbum de Figurinhas Digital** focado em grandes personalidades e tecnologias do mundo tech (como pioneiros da Inteligência Artificial, criadores do Python e arquitetos de Banco de Dados). Ele simula a experiência de folhear um álbum físico de figurinhas diretamente no navegador.
